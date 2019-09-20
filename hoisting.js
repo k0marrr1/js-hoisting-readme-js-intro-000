@@ -9,7 +9,7 @@ function callMe() {
 
 
 function crazy() {
-  return lyric
+  // something here
   thisIsCrazy();
 
   var thisIsCrazy = function (){
